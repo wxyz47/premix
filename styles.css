@@ -79,6 +79,7 @@
     transition: 0.5s;
     background: var(--bs-white);
     border: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .topbar {
